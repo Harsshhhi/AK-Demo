@@ -1,2 +1,2 @@
 # AK-Demo
-BAsic
+Basic
